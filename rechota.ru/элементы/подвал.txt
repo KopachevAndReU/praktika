@@ -1,0 +1,30 @@
+<footer class="footer" >
+		<div class = "head-2">
+	
+			<div class = "head-21">
+				<img src="D:\Учёба\rechota.ru\img\logotype.svg" alt="logo" class="logo">
+			</div>
+		</div>
+	<div class = "head-111">
+
+		<div class = "head-11">
+		 <div class = "list-111">
+		 <a  href = "/about/">Как использовать</a>
+		 <a  href = "/pay/">Партнерам</a>
+		 <a  href = "/dostavka/">Скачать</a>
+		 <a  href = "/statii/">Отзывы</a>
+		</div>
+	</div>
+	</div>
+		<div class = "head-25">
+			<div class="search">
+			<input type = "button" value = "Получить доступ">
+		</div>
+		</div>
+	</div>
+	
+		
+		
+		
+	</div>
+	</footer>

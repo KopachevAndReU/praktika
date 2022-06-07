@@ -1,0 +1,78 @@
+<section>
+  <div class="main-category">
+    <div class="card"> 
+      <div class="item">
+      <div class="item-box">       
+        <h1>Колбасные и мясные изделия</h1>
+        <h2>Цена от 150₽ </h2>      
+        <h4>56 товаров</h4>         
+        <img class="images-category" src="D:\Учёба\rechota.ru\img\kolbasa.svg">   
+        </div>  
+      </div>
+    </div>
+    <div class="card"> 
+      <div class="item">
+      <div class="item-box">       
+          <h1>Молочные продукты</h1>      
+          <h4>Сыры, Десерты, Йогурты,<br>Кисломолочная продукция,<br>Молоко, Сметара, Творог<br>Творожная масса</h4>             
+           <img class="images-category" src="D:\Учёба\rechota.ru\img\milk&cheese.png"> 
+            </div>  
+          </div>  
+        </div>
+        <div class="card"> 
+          <div class="item">
+          <div class="item-box">       
+            <h1>Морепродукты</h1>
+            <h4>Рыба, Икра, Креветки</h4>           
+            <img class="images-category" src="D:\Учёба\rechota.ru\img\fish.png">
+              </div>   
+            </div>  
+          </div>
+          <div class="card"> 
+            <div class="item">
+            <div class="item-box">       
+              <h1>Пиво</h1>
+              <h2>Крафтовое пиво</h2>
+              <img class="images-category" src="D:\Учёба\rechota.ru\img\energetik.png">   
+                </div>
+              </div>  
+            </div>
+            <div class="card"> 
+              <div class="item">
+              <div class="item-box">       
+                <h1>Замороженные продукты</h1>    
+                <h4>Замороженные овощи, <br>Замороженные фрукты</h4>
+                <img class="images-category" src="D:\Учёба\rechota.ru\img\yagody.png">   
+                  </div> 
+                </div> 
+              </div>
+              <div class="card"> 
+                <div class="item">
+                <div class="item-box">      
+                  <h1>Мёд</h1>
+                  <h4>Мед горный 0,25 кг,<br>Мед с облепихой 0,25 кг,<br>Мед с черникой 0,25 кг,<br>Мед с разнотравья 0,25 кг,<br>Мед цветочный 0,25 кг</h6>
+                  <img class="images-category" src="D:\Учёба\rechota.ru\img\med.png">   
+                    </div> 
+                  </div> 
+                </div>
+                <div class="card"> 
+                  <div class="item">
+                  <div class="item-box">       
+                    <h1>Свежие овощи</h1>      
+                    <h4>Картофель, Огурцы,<br>Помидоры</h6>
+                    <img class="images-category" src="D:\Учёба\rechota.ru\img\vegetables.png">   
+                      </div>  
+                    </div>
+                  </div>
+                  <div class="card"> 
+                    <div class="item">
+                    <div class="item-box">       
+                      <h1>Свежие фрукты</h1>      
+                      <h4>Сезонные яблоки</h6> 
+                      <img class="images-category" src="D:\Учёба\rechota.ru\img\fructs.png">   
+                        </div> 
+                      </div> 
+                    </div>
+                                                          
+  </div>  
+  </section>

@@ -1,0 +1,1 @@
+<a href="/katalog/myasnye-izdeliya/" class="main-category__item-inner" style="background: radial-gradient(97.05% 95.85% at 94.3% 92.41%, #F7C669 0%, #C5624C 100%);"></a>
